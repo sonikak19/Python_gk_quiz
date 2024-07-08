@@ -1,0 +1,78 @@
+{
+    "question": [
+      "Q.1] Which city is the capital of India?",
+      "Q.2] Which Indian city is the capital of two states?",
+      "Q.3] Smallest and Largest State of India?",
+      "Q.4] Easternmost state of India?",
+      "Q.5] Southernmost point of India?",
+      "Q.6] What is the capital of Lakshadweep islands?",
+      "Q.7] How many states and union territories are there in India as of 2024?",
+      "Q.8] How many official languages does India have?",
+      "Q.9] How many countries share international border with India?",
+      "Q.10] Which is the longest river in India?"
+    ],
+    "answer": [
+      2,
+      1,
+      3,
+      2,
+      4,
+      3,
+      1,
+      4,
+      2,
+      3
+    ],
+    "options": [
+  
+      ["Kolkata",
+        "Delhi",
+        "Chennai",
+        "Mumbai"
+      ],
+      ["Chandigarh",
+        "Kolkata",
+        "Chattisgarh",
+        "Amaravati"
+      ],
+      ["Sikkim and Rajasthan",
+        "Sikkim and Uttar Pradesh",
+        "Goa and Rajasthan",
+        "Goa and Uttar Pradesh"
+      ],
+      ["Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Manipur",
+        "Mizoram"
+      ],
+      ["Thiruvananthapuram",
+        "Kanyakumari",
+        "Rameshwaram",
+        "Indira Point"
+      ],
+      ["Agatti",
+        "Port Blair",
+        "Kavaratti",
+        "Karaikal"
+      ],
+      ["28 States and 8 Union Territories",
+        "27 States and 9 Union Territories",
+        "28 States and 7 Union Territories",
+        "29 States and 8 Union Territories"
+      ],
+      ["21",
+        "23",
+        "24",
+        "22"
+      ],
+      ["5",
+        "7",
+        "8",
+        "6"
+      ],
+      ["Bramhaputra",
+        "Godavari",
+        "Ganga",
+        "Saraswati"]
+    ]
+  }
